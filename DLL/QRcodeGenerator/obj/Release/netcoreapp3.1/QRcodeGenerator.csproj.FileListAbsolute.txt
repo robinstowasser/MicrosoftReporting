@@ -1,0 +1,17 @@
+C:\Users\Administrator\Documents\proj\MicrosoftReporting\proj\DLL\QRcodeGenerator\bin\Release\netcoreapp3.1\QRcodeGenerator.deps.json
+C:\Users\Administrator\Documents\proj\MicrosoftReporting\proj\DLL\QRcodeGenerator\bin\Release\netcoreapp3.1\QRcodeGenerator.dll
+C:\Users\Administrator\Documents\proj\MicrosoftReporting\proj\DLL\QRcodeGenerator\bin\Release\netcoreapp3.1\QRcodeGenerator.pdb
+C:\Users\Administrator\Documents\proj\MicrosoftReporting\proj\DLL\QRcodeGenerator\obj\Release\netcoreapp3.1\QRcodeGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\proj\MicrosoftReporting\proj\DLL\QRcodeGenerator\obj\Release\netcoreapp3.1\QRcodeGenerator.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\proj\MicrosoftReporting\proj\DLL\QRcodeGenerator\obj\Release\netcoreapp3.1\QRcodeGenerator.AssemblyInfo.cs
+C:\Users\Administrator\Documents\proj\MicrosoftReporting\proj\DLL\QRcodeGenerator\obj\Release\netcoreapp3.1\QRcodeGenerator.dll
+C:\Users\Administrator\Documents\proj\MicrosoftReporting\proj\DLL\QRcodeGenerator\obj\Release\netcoreapp3.1\QRcodeGenerator.pdb
+\\10.10.10.201\work\MyWork\Microsoftreporting\proj\DLL\QRcodeGenerator\bin\Release\netcoreapp3.1\QRcodeGenerator.deps.json
+\\10.10.10.201\work\MyWork\Microsoftreporting\proj\DLL\QRcodeGenerator\bin\Release\netcoreapp3.1\QRcodeGenerator.dll
+\\10.10.10.201\work\MyWork\Microsoftreporting\proj\DLL\QRcodeGenerator\bin\Release\netcoreapp3.1\QRcodeGenerator.pdb
+\\10.10.10.201\work\MyWork\Microsoftreporting\proj\DLL\QRcodeGenerator\obj\Release\netcoreapp3.1\QRcodeGenerator.csprojAssemblyReference.cache
+\\10.10.10.201\work\MyWork\Microsoftreporting\proj\DLL\QRcodeGenerator\obj\Release\netcoreapp3.1\QRcodeGenerator.csproj.CoreCompileInputs.cache
+\\10.10.10.201\work\MyWork\Microsoftreporting\proj\DLL\QRcodeGenerator\obj\Release\netcoreapp3.1\QRcodeGenerator.AssemblyInfoInputs.cache
+\\10.10.10.201\work\MyWork\Microsoftreporting\proj\DLL\QRcodeGenerator\obj\Release\netcoreapp3.1\QRcodeGenerator.AssemblyInfo.cs
+\\10.10.10.201\work\MyWork\Microsoftreporting\proj\DLL\QRcodeGenerator\obj\Release\netcoreapp3.1\QRcodeGenerator.dll
+\\10.10.10.201\work\MyWork\Microsoftreporting\proj\DLL\QRcodeGenerator\obj\Release\netcoreapp3.1\QRcodeGenerator.pdb
